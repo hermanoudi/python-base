@@ -1,0 +1,4 @@
+Minha Nota	tech	Anotação sobre tech
+Minha Nota 2	tech	Java é do caralho
+Babababa	tech	aqui é um texto
+Babababa	ntech	teste estes
