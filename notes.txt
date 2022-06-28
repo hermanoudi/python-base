@@ -2,3 +2,11 @@ Minha Nota	tech	Anotação sobre tech
 Minha Nota 2	tech	Java é do caralho
 Babababa	tech	aqui é um texto
 Babababa	ntech	teste estes
+minha terceira nota	Tech	Java
+Repetições	text	esse é o texto
+Novo Texto	rep	foo foo foo
+Novo 2	isso ae	ae bakjasdfa
+Abc	xxx	adslfkjasdlkfjas
+Asdfs	asdfsa	asdfa
+Asd	asd	sadf
+Sadfa	asdfa	asdf
