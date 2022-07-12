@@ -1,13 +1,5 @@
-names = ["Hermano", "Luzia", "Jose", "Hugo", "Sebastião", "Manoelina", "Danilo", "Danilo"]
+names = ["Bruno", "Joao", "Bernardo", "Barbara", "Brian"]
 
-# TODO: Usar lambas
-
-def isStartsWithH(nome):
-    if nome.lower().startswith("d"):
-        return True
-    else:
-        return False
-
-print(*list(filter(isStartsWithH, names)))
+print(*list(filter(lambda text: text[0].lower() == "b", names)), sep="\n")
 
 
